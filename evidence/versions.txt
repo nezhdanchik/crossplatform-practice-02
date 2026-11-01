@@ -1,0 +1,13 @@
+Git
+> git --version
+git version 2.37.1.windows.1
+
+System Node
+> C:/Program Files/nodejs/node.exe --version
+v16.16.0
+
+Practice Node LTS
+> C:\Users\Mi\.codex\visualizations\2026\11\01\01a19836-10b0-7310-b0e5-33ded2758cf9\practice02\tools\node-v26.13.0-win-x64\node.exe --version
+v26.13.0
+
+VS Code: 1.101.0, x64

@@ -1,0 +1,5 @@
+https://github.com/tauri-apps/tauri
+Commit: 31f29e197e7ac18797dbb9270fe658c1ca1010c8
+Example: examples/helloworld
+Selected source files for analysis; not a standalone buildable copy.
+Official checkout: git clone --depth 1 https://github.com/tauri-apps/tauri.git

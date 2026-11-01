@@ -1,0 +1,4 @@
+Node.js v26.13.0 LTS Lithium
+Source: https://nodejs.org/dist/v26.13.0/node-v26.13.0-win-x64.zip
+SHA256: dcc60d59a0746999f99064a01c020445d54d84228c691cdbf25b49ac3b59150a
+Verified against official SHASUMS256.txt
