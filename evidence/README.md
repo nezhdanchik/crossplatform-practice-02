@@ -1,8 +1,7 @@
-# Подтверждение выполнения
+# Скриншоты выполнения
 
-versions.txt — фактические выводы команд проверки версий.
-node-verification.txt — источник переносимого Node.js и проверенная контрольная сумма.
+- environment.png — версии Git, Node.js LTS и Visual Studio Code.
+- project-vscode.png — дерево файлов и код официального примера в VS Code.
+- github-commits.png — история коммитов на GitHub.
 
-Для скриншота окружения в локальной копии запустите check-environment.cmd.
-Для скриншота структуры откройте analysis/tauri-helloworld в VS Code.
-Для скриншота истории откройте страницу /commits/main на GitHub.
+Скриншоты включены в отчёт. Выводы команд сохранены в versions.txt, сведения о проверке Node.js — в node-verification.txt.
